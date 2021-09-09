@@ -1,0 +1,82 @@
+
+Creating a new React app in D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> core-js@2.6.12 postinstall D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.17.2 postinstall D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.17.2 postinstall D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> ejs@2.7.4 postinstall D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement\node_modules\ejs
+> node ./postinstall.js
+
++ cra-template@1.1.2
++ react-scripts@4.0.3
++ react-dom@17.0.2
++ react@17.0.2
+added 1904 packages from 707 contributors and audited 1907 packages in 1818.913s
+
+140 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
++ web-vitals@1.1.2
++ @testing-library/jest-dom@5.14.1
++ @testing-library/user-event@12.8.3
++ @testing-library/react@11.2.7
+added 43 packages from 87 contributors and audited 1950 packages in 78.218s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+Removing template package using npm...
+
+removed 1 package and audited 1949 packages in 19.869s
+
+141 packages are looking for funding
+  run `npm fund` for details
+
+found 3 moderate severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Created git commit.
+
+Success! Created usermanagement at D:\angularMyProject\ecommerce-project\02-backend\UserManagement\src\main\webApp\usermanagement
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd usermanagement
+  npm start
+
+Happy hacking!
